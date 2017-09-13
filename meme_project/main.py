@@ -44,7 +44,7 @@ def get_memes(sub, limit=5):
 '''
     Get dem spicy memez
 '''
-subs = ['dankmemes'[, 'as many subs as you want here']]
+subs = ['example_sub'[, 'as many subs as you want here']]
 
 for sub in subs:
     get_memes(sub)
